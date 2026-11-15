@@ -73,4 +73,4 @@ Go runtime and code and data from other projects, under their own licences,
 which that licence does not limit; they are listed in `NOTICE`, with the texts
 in `LICENSE-GO`, `LICENSE-APACHE-2.0`, `LICENSE-GPL-2.0`. Three of those data files are
 under the Mozilla Public License 2.0, and are attached to each release as each
-binary includes them: `fortios.json.gz`, `iosxe.json.gz`, `public_suffix_list.dat.gz`.
+binary includes them: `fortios.json.gz`, `iosxe.json.gz`, `routeros.json.gz`, `public_suffix_list.dat.gz`.
